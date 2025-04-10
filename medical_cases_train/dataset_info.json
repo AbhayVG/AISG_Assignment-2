@@ -1,0 +1,74 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "medical-cases-classification-tutorial",
+  "dataset_size": 9066336,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/hpe-ai/medical-cases-classification-tutorial@a63f962a9f692e2ce048b2f3ce826ea219956870/medical_cases_train.csv": {
+      "num_bytes": 6339673,
+      "checksum": null
+    },
+    "hf://datasets/hpe-ai/medical-cases-classification-tutorial@a63f962a9f692e2ce048b2f3ce826ea219956870/medical_cases_validation.csv": {
+      "num_bytes": 1382532,
+      "checksum": null
+    },
+    "hf://datasets/hpe-ai/medical-cases-classification-tutorial@a63f962a9f692e2ce048b2f3ce826ea219956870/medical_cases_test.csv": {
+      "num_bytes": 1318921,
+      "checksum": null
+    }
+  },
+  "download_size": 9041126,
+  "features": {
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "transcription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sample_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "medical_specialty": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "keywords": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 18107462,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6357392,
+      "num_examples": 1724,
+      "dataset_name": "medical-cases-classification-tutorial"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1386268,
+      "num_examples": 370,
+      "dataset_name": "medical-cases-classification-tutorial"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1322676,
+      "num_examples": 370,
+      "dataset_name": "medical-cases-classification-tutorial"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
