@@ -1,0 +1,51 @@
+[Unknown] Raw prediction: 
+Description: A white female who presents for complete physical, Pap and breast exam.
+
+[Unknown] Raw prediction: Cardiology
+Description: Right subclavian triple lumen central line placement
+
+[Unknown] Raw prediction: 
+Description: Patient with a long history of depression and attention deficits.
+
+[Unknown] Raw prediction: Cardiology
+Description: Right carotid stenosis and prior cerebrovascular accident. Right carotid endarterectomy with patch angioplasty.
+
+[Unknown] Raw prediction: Cardiology
+Description: Chronic adenotonsillitis with adenotonsillar hypertrophy.  Upper respiratory tract infection with mild acute laryngitis.
+
+[Unknown] Raw prediction: Cardiology
+Description: A routine return appointment for a 71-year-old woman with chronic atrial fibrillation.  Chief complaint today is shortness of breath.
+
+[Unknown] Raw prediction: 
+Description: MRI T-spine and CXR - Aortic Dissection.
+
+[Unknown] Raw prediction: Cardiology
+Description: A sample note on Angina.
+
+[Unknown] Raw prediction: 
+Description: Pediatric Gastroenterology - Rectal Bleeding Consult.
+
+[Unknown] Raw prediction: Cardiology
+Description: Stroke in distribution of recurrent artery of Huebner (left)
+
+[Unknown] Raw prediction: 
+Description: A 27-year-old female with a size and date discrepancy.
+
+[Unknown] Raw prediction: 
+Description: Chronic headaches and pulsatile tinnitus.
+
+[Unknown] Raw prediction: 
+Description: Headache and diplopia.
+
+[Unknown] Raw prediction: Cardiology
+Description: Placement of a subclavian single-lumen tunneled Hickman central venous catheter.  Surgeon-interpreted fluoroscopy.
+
+[Unknown] Raw prediction: 
+Description: Woman with adult hydrocephalus, routine evaluation.
+
+[Unknown] Raw prediction: 
+Description: MRI Brain, Carbon Monoxide poisoning.
+
+[Unknown] Raw prediction: 
+Description: Patient with back and hip pain.
+
