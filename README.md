@@ -22,14 +22,14 @@ This repo contains the below folders:
 | Promt Strategy | Accuracy | F1 Score | Precision | Recall |
 |----------------|----------|----------|-----------|--------|
 | zero shot      | 0.27     | 0.20     | 0.34      | 0.20   |
-| few shot (3)   | 0.     | 0.     | 0.      | 0.   |
+| few shot (3)   | 0.54     | 0.49     | 0.49      | 0.55   |
 | few shot (5)   | 0.59     | 0.53     | 0.53      | 0.60   |
 
 ### gemma
 
 | Promt Strategy | Accuracy | F1 Score | Precision | Recall |
 |----------------|----------|----------|-----------|--------|
-| zero shot      | 0.       | 0.     | 0.      | 0.   |
+| zero shot      | 0.18     | 0.06     | 0.06      | 0.39   |
 | few shot (3)   | 0.       | 0.     | 0.      | 0.   |
 | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
 
@@ -37,7 +37,7 @@ This repo contains the below folders:
 
 | Promt Strategy | Accuracy | F1 Score | Precision | Recall |
 |----------------|----------|----------|-----------|--------|
-| zero shot      | 0.       | 0.     | 0.      | 0.   |
+| zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
 | few shot (3)   | 0.       | 0.     | 0.      | 0.   |
 | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
 
