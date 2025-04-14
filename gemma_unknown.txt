@@ -1,51 +1,186 @@
-[Unknown] Raw prediction: 
-Description: A white female who presents for complete physical, Pap and breast exam.
+[Unknown] Raw prediction: Cardiology
+Description: Loculated left effusion, multilobar pneumonia.  Patient  had a diagnosis of multilobar pneumonia along with arrhythmia and heart failure as well as renal insufficiency.
 
 [Unknown] Raw prediction: Cardiology
-Description: Right subclavian triple lumen central line placement
+Description: Abnormal echocardiogram findings and followup.  Shortness of breath, congestive heart failure, and valvular insufficiency.   The patient complains of shortness of breath, which is worsening.  The patient underwent an echocardiogram, which shows severe mitral regurgitation and also large pleural effusion.
 
-[Unknown] Raw prediction: 
-Description: Patient with a long history of depression and attention deficits.
+[Unknown] Raw prediction: Cardiology
+Description: Left muscle sparing mini thoracotomy with left upper lobectomy and mediastinal lymph node dissection.  Intercostal nerve block for postoperative pain relief at five levels.
+
+[Unknown] Raw prediction: Cardiology
+Description: Cardiomyopathy and hypotension.  A lady with dementia, coronary artery disease, prior bypass, reduced LV function, and recurrent admissions for diarrhea and hypotension several times.
+
+[Unknown] Raw prediction: Cardiology
+Description: Left heart catheterization and bilateral selective coronary angiography. Left ventriculogram was not performed.
+
+[Unknown] Raw prediction: Cardiology
+Description: Excision of right superior parathyroid adenoma, seen on sestamibi parathyroid scan and an ultrasound.
+
+[Unknown] Raw prediction: Cardiology
+Description: A middle-aged white female undergoing autologous stem cell transplant for multiple myeloma, now with paroxysmal atrial fibrillation.
+
+[Unknown] Raw prediction: Cardiology
+Description: Subxiphoid pericardiotomy.  Symptomatic pericardial effusion.  The patient had the appropriate inflammatory workup for pericardial effusion, however, it was nondiagnostic.
+
+[Unknown] Raw prediction: Neurological
+Description: MRI T-L spine - L2 conus medullaris lesion and syndrome secondary to Schistosomiasis.
 
 [Unknown] Raw prediction: Cardiology
 Description: Right carotid stenosis and prior cerebrovascular accident. Right carotid endarterectomy with patch angioplasty.
 
 [Unknown] Raw prediction: Cardiology
-Description: Chronic adenotonsillitis with adenotonsillar hypertrophy.  Upper respiratory tract infection with mild acute laryngitis.
+Description: Patient with chest pains, CAD, and cardiomyopathy.
+
+[Unknown] Raw prediction: Cardiology
+Description: Left heart catheterization and bilateral selective coronary angiography. Left ventriculogram was not performed.
+
+[Unknown] Raw prediction: Cardiology
+Description: Seizure, hypoglycemia, anemia, dyspnea, edema. colon cancer status post right hemicolectomy, hospital-acquired pneumonia, and congestive heart failure.
+
+[Unknown] Raw prediction: Cardiology
+Description: BPP of Gravida 1, para 0 at 33 weeks 5 days by early dating.  The patient is developing gestational diabetes.
+
+[Unknown] Raw prediction: Cardiology
+Description: Selective coronary angiography of the right coronary artery, left main LAD, left circumflex artery, left ventricular catheterization, left ventricular angiography, angioplasty of totally occluded mid RCA, arthrectomy using 6-French catheter, stenting of the mid RCA, stenting of the proximal RCA, femoral angiography and Perclose hemostasis.
+
+[Unknown] Raw prediction: Cardiology
+Description: Dual chamber generator replacement.  The patient is a pleasant patient who presented to the office, recently was found to be at ERI and she has been referred for generator replacement.
+
+[Unknown] Raw prediction: Mammography
+Description: Diagnostic mammogram, full-field digital, ultrasound of the breast and mammotome core biopsy of the left breast.
 
 [Unknown] Raw prediction: Cardiology
 Description: A routine return appointment for a 71-year-old woman with chronic atrial fibrillation.  Chief complaint today is shortness of breath.
 
-[Unknown] Raw prediction: 
-Description: MRI T-spine and CXR - Aortic Dissection.
+[Unknown] Raw prediction: Cardiology
+Description: Echocardiographic Examination Report.   Angina and coronary artery disease.  Mild biatrial enlargement, normal thickening of the left ventricle with mildly dilated ventricle and EF of 40%, mild mitral regurgitation, diastolic dysfunction grade 2, mild pulmonary hypertension.
+
+[Unknown] Raw prediction: Cardiology
+Description: Chest, Single view post OP for ASD (Atrial Septal Defect).
+
+[Unknown] Raw prediction: Cardiology
+Description: Patient with right-sided chest pain, borderline elevated high blood pressure, history of hyperlipidemia, and obesity.
+
+[Unknown] Raw prediction: Cardiology
+Description: Nuclear cardiac stress report.  Recurrent angina pectoris in a patient with documented ischemic heart disease and underlying ischemic cardiomyopathy.
+
+[Unknown] Raw prediction: Neurological
+Description: MRI Spine - T12-L5 epidural lipoma and thoracic spinal cord infarction vs. transverse myelitis.
+
+[Unknown] Raw prediction: Cardiology
+Description: Dementia and aortoiliac occlusive disease bilaterally.  Aortobifemoral bypass surgery utilizing a bifurcated Hemashield graft.
+
+[Unknown] Raw prediction: Cardiology
+Description: A 62-year-old male with a history of ischemic cardiomyopathy and implanted defibrillator.
 
 [Unknown] Raw prediction: Cardiology
 Description: A sample note on Angina.
 
-[Unknown] Raw prediction: 
-Description: Pediatric Gastroenterology - Rectal Bleeding Consult.
+[Unknown] Raw prediction: Cardiology
+Description: Tilt table test.  A patient with past medical history of syncope.  The patient is also complaining of dizziness.
+
+[Unknown] Raw prediction: Cardiology
+Description: Resting Myoview perfusion scan and gated myocardial scan.  Findings consistent with an inferior non-transmural scar
+
+[Unknown] Raw prediction: Cardiology
+Description: Coronary artery bypass grafting (CABG) x4.  Progressive exertional angina, three-vessel coronary artery disease, left main disease, preserved left ventricular function.
+
+[Unknown] Raw prediction: Cardiology
+Description: Type 1 diabetes mellitus, insulin pump requiring.  Chronic kidney disease, stage III.  Sweet syndrome, hypertension, and dyslipidemia.
+
+[Unknown] Raw prediction: Cardiology
+Description: Left muscle sparing mini thoracotomy with left upper lobectomy and mediastinal lymph node dissection.  Intercostal nerve block for postoperative pain relief at five levels.
+
+[Unknown] Raw prediction: Cardiology
+Description: Cardioversion.  Unsuccessful direct current cardioversion with permanent atrial fibrillation.
+
+[Unknown] Raw prediction: Cardiology
+Description: Left heart catheterization with left ventriculography and selective coronary angiography.  A 50% distal left main and two-vessel coronary artery disease with normal left ventricular systolic function.  Frequent PVCs.  Metabolic syndrome.
 
 [Unknown] Raw prediction: Cardiology
 Description: Stroke in distribution of recurrent artery of Huebner (left)
 
-[Unknown] Raw prediction: 
-Description: A 27-year-old female with a size and date discrepancy.
+[Unknown] Raw prediction: Neurological
+Description: Redo L4-5 diskectomy, left - recurrent herniation L4-5 disk with left radiculopathy.
 
-[Unknown] Raw prediction: 
-Description: Chronic headaches and pulsatile tinnitus.
+[Unknown] Raw prediction: Cardiology
+Description: Myocardial perfusion imaging - patient with history of MI, stents placement, and chest pain.
 
-[Unknown] Raw prediction: 
-Description: Headache and diplopia.
+[Unknown] Raw prediction: Cardiology
+Description: Transesophageal echocardiogram due to vegetation and bacteremia. Normal left ventricular size and function.  Echodensity involving the aortic valve suggestive of endocarditis and vegetation. Doppler study as above most pronounced being moderate-to-severe aortic insufficiency.
+
+[Unknown] Raw prediction: Cardiology
+Description: Insertion of transvenous pacemaker for tachybrady syndrome
+
+[Unknown] Raw prediction: Cardiology
+Description: DDDR permanent pacemaker, insertion of a steroid-eluting screw in right atrial lead, insertion of a steroid-eluting screw in right ventricular apical lead, pulse generator insertion, model Sigma,
+
+[Unknown] Raw prediction: Cardiology
+Description: Juxtaductal coarctation of the aorta, dilated cardiomyopathy, bicuspid aortic valve, patent foramen ovale.
+
+[Unknown] Raw prediction: Urology
+Description: Foul-smelling urine and stomach pain after meals.
+
+[Unknown] Raw prediction: Cardiology
+Description: Resection of left chest wall tumor, partial resection of left diaphragm, left lower lobe lung wedge resection, left chest wall reconstruction with Gore-Tex mesh.
+
+[Unknown] Raw prediction: Cardiology
+Description: A 51-year-old male with chest pain and history of coronary artery disease.
+
+[Unknown] Raw prediction: Cardiology
+Description: Fogarty thrombectomy, left forearm arteriovenous Gore-Tex bridge fistula and revision of distal anastomosis with 7 mm interposition Gore-Tex graft.  Chronic renal failure and thrombosed left forearm arteriovenous Gore-Tex bridge fistula.
+
+[Unknown] Raw prediction: Neurological
+Description: MRI T-spine: Metastatic Adenocarcinoma of the T3-T4 vertebrae and invading the spinal canal.
+
+[Unknown] Raw prediction: Cardiology
+Description: Loculated left effusion, multilobar pneumonia.  Patient  had a diagnosis of multilobar pneumonia along with arrhythmia and heart failure as well as renal insufficiency.
+
+[Unknown] Raw prediction: Cardiology
+Description: Ligation and stripping of left greater saphenous vein to the level of the knee.  Stripping of multiple left lower extremity varicose veins.  Varicose veins.
+
+[Unknown] Raw prediction: Cardiology
+Description: Lexiscan Nuclear Myocardial Perfusion Scan.  Chest pain.  Patient unable to walk on a treadmill.  Nondiagnostic Lexiscan.  Normal nuclear myocardial perfusion scan.
+
+[Unknown] Raw prediction: Cardiology
+Description: Nonischemic cardiomyopathy, branch vessel coronary artery disease, congestive heart failure - NYHA Class III, history of nonsustained ventricular tachycardia, hypertension, and hepatitis C.
+
+[Unknown] Raw prediction: Cardiology
+Description: Successful stenting of the left anterior descending.  Angina pectoris, tight lesion in left anterior descending.
 
 [Unknown] Raw prediction: Cardiology
 Description: Placement of a subclavian single-lumen tunneled Hickman central venous catheter.  Surgeon-interpreted fluoroscopy.
 
-[Unknown] Raw prediction: 
-Description: Woman with adult hydrocephalus, routine evaluation.
+[Unknown] Raw prediction: Cardiology
+Description: Cerebral Angiogram - Lobulated aneurysm of the supraclinoid portion of the left internal carotid artery close to the origin of the left posterior communicating artery.
 
-[Unknown] Raw prediction: 
-Description: MRI Brain, Carbon Monoxide poisoning.
+[Unknown] Raw prediction: Cardiology
+Description: Aortogram with bilateral, segmental lower extremity run off.  Left leg claudication.  The patient presents with lower extremity claudication.
 
-[Unknown] Raw prediction: 
-Description: Patient with back and hip pain.
+[Unknown] Raw prediction: Cardiology
+Description: Need for cardiac catheterization.  Coronary artery disease, chest pain, history of diabetes, history of hypertension, history of obesity,  a 1.1 cm lesion in the medial aspect of the right parietal lobe, and deconditioning.
+
+[Unknown] Raw prediction: Cardiology
+Description: Carotid Ultrasonic & Color Flow Imaging
+
+[Unknown] Raw prediction: Cardiology
+Description: Dobutamine Stress Echocardiogram.  Chest discomfort, evaluation for coronary artery disease.  Maximal dobutamine stress echocardiogram test achieving more than 85% of age-predicted heart rate.  Negative EKG criteria for ischemia.
+
+[Unknown] Raw prediction: Cardiology
+Description: Patient with a family history of premature coronary artery disease came in for evaluation of recurrent chest pain
+
+[Unknown] Raw prediction: Cardiology
+Description: The patient has a previous history of aortic valve disease, status post aortic valve replacement, a previous history of paroxysmal atrial fibrillation, congestive heart failure, a previous history of transient ischemic attack with no residual neurologic deficits.
+
+[Unknown] Raw prediction: Cardiology
+Description: Insertion of a VVIR permanent pacemaker.  This is an 87-year-old Caucasian female with critical aortic stenosis with an aortic valve area of 0.5 cm square and recurrent congestive heart failure symptoms mostly refractory to tachybrady arrhythmias
+
+[Unknown] Raw prediction: Cardiology
+Description: Problem of essential hypertension.  Symptoms that suggested intracranial pathology.
+
+[Unknown] Raw prediction: Cardiology
+Description: Abnormal EKG and rapid heart rate.  The patient came to the emergency room.  Initially showed atrial fibrillation with rapid ventricular response.  It appears that the patient has chronic atrial fibrillation.  She denies any specific chest pain.  Her main complaint is shortness of breath and symptoms as above.
+
+[Unknown] Raw prediction: Cardiology
+Description: Myoview nuclear stress study.  Angina, coronary artery disease.  Large fixed defect, inferior and apical wall, related to old myocardial infarction.
 

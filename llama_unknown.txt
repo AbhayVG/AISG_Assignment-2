@@ -1,0 +1,6 @@
+[Unknown] Raw prediction: Dermatology.
+Description: Left third digit numbness and wrist pain.
+
+[Unknown] Raw prediction: Neonatology
+Description: OB Ultrasound - A 29-year-old female requests for size and date of pregnancy.
+
