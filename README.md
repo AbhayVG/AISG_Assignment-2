@@ -38,7 +38,7 @@ This repo contains the below folders:
 | Promt Strategy | Accuracy | F1 Score | Precision | Recall |
 |----------------|----------|----------|-----------|--------|
 | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
-| few shot (3)   | 0.       | 0.     | 0.      | 0.   |
+| few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
 | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
 
 ## Question 3 : Fine Tuning LLM for health applications.
@@ -47,4 +47,4 @@ This repo contains the below folders:
 |------------|----------|----------|-----------|--------|
 | gemma      | 0.50     | 0.39     | 0.48      | 0.41   |
 | llama      | 0.70     | 0.52     | 0.57      | 0.52   |
-| deepseek   | 0.0     | 0.     | 0.      | 0.   |
+| deepseek   | 0.15     | 0.11     | 0.25      | 0.12   |
