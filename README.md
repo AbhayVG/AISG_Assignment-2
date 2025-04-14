@@ -30,8 +30,8 @@ This repo contains the below folders:
 | Promt Strategy | Accuracy | F1 Score | Precision | Recall |
 |----------------|----------|----------|-----------|--------|
 | zero shot      | 0.18     | 0.06     | 0.06      | 0.39   |
-| few shot (3)   | 0.       | 0.     | 0.      | 0.   |
-| few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| few shot (3)   | 0.26     | 0.19     | 0.26      | 0.17   |
+| few shot (5)   | 0.34     | 0.30     | 0.34      | 0.26   |
 
 ### deepseek
 
@@ -66,15 +66,15 @@ This repo contains the below folders:
 |Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
 |------------|----------------|----------|----------|-----------|--------|
 | gemma      | zero shot      | 0.18     | 0.06     | 0.06      | 0.39   |
-| gemma      | few shot (3)   | 0.       | 0.     | 0.      | 0.   |
-| gemma      | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| gemma      | few shot (3)   | 0.26     | 0.19     | 0.26      | 0.17   |
+| gemma      | few shot (5)   | 0.34     | 0.30     | 0.34      | 0.26   |
 | gemma      | fine tuning    | 0.50     | 0.39     | 0.48      | 0.41   |
 
 ### deepseek
 
 |Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
-|------------|----------------|----------|----------|-----------|--------|
-| deepseek   | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
-| deepseek   | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
-| deepseek   | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
-| deepseek   | fine tuning    | 0.15     | 0.11     | 0.25      | 0.12   |
+|-----------|----------------|----------|----------|-----------|--------|
+| deepseek  | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
+| deepseek  | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
+| deepseek  | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| deepseek  | fine tuning    | 0.15     | 0.11     | 0.25      | 0.12   |
