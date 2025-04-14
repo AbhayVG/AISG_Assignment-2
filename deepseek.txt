@@ -1,0 +1,1110 @@
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Nephrology
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Gastroenterology
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Orthopedic
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Orthopedic
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Neurology
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Gastroenterology
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Gastroenterology
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Gastroenterology
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Orthopedic
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Radiology
+True Label: Orthopedic
+
+Prediction: Gastroenterology
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Orthopedic
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Gastroenterology
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Orthopedic
+True Label: Orthopedic
+
+Prediction: Gastroenterology
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Orthopedic
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Orthopedic
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Ophthalmology
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Orthopedic
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Obstetrics / Gynecology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Orthopedic
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Gastroenterology
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Radiology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Pediatrics - Neonatal
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: Pediatrics - Neonatal
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Cardiovascular / Pulmonary
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Hematology - Oncology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Orthopedic
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Pediatrics - Neonatal
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Neurology
+True Label: Psychiatry / Psychology
+
+Prediction: Gastroenterology
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Radiology
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Ophthalmology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Unknown
+True Label: Obstetrics / Gynecology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Orthopedic
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Neurosurgery
+
+Prediction: Gastroenterology
+True Label: Gastroenterology
+
+Prediction: Unknown
+True Label: Neurology
+
+Prediction: Unknown
+True Label: Cardiovascular / Pulmonary
+
+Prediction: Unknown
+True Label: Psychiatry / Psychology
+
+Prediction: Unknown
+True Label: Nephrology
+
+Prediction: Unknown
+True Label: ENT - Otolaryngology
+

@@ -47,7 +47,7 @@ This repo contains the below folders:
 |------------|----------|----------|-----------|--------|
 | gemma      | 0.50     | 0.39     | 0.48      | 0.41   |
 | llama      | 0.70     | 0.52     | 0.57      | 0.52   |
-| deepseek   | 0.15     | 0.11     | 0.25      | 0.12   |
+| deepseek   | 0.35     | 0.22     | 0.25      | 0.23   |
 
 
 ## Comparing the Models for few shot, zero shot and fine tuning
@@ -77,4 +77,4 @@ This repo contains the below folders:
 | deepseek  | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
 | deepseek  | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
 | deepseek  | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
-| deepseek  | fine tuning    | 0.15     | 0.11     | 0.25      | 0.12   |
+| deepseek  | fine tuning    | 0.35     | 0.22     | 0.25      | 0.23   |

@@ -1,0 +1,1313 @@
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Complete laminectomy, L4. and facetectomy, L3-L4 level.  A dural repair, right sided, on the lateral sheath, subarticular recess at the L4 pedicle level.  Posterior spinal instrumentation, L4 to S1, using Synthes Pangea System.  Posterior spinal fusion, L4 to S1.  Insertion of morselized autograft, L4 to S1.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Loculated left effusion, multilobar pneumonia.  Patient  had a diagnosis of multilobar pneumonia along with arrhythmia and heart failure as well as renal insufficiency.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Abnormal echocardiogram findings and followup.  Shortness of breath, congestive heart failure, and valvular insufficiency.   The patient complains of shortness of breath, which is worsening.  The patient underwent an echocardiogram, which shows severe mitral regurgitation and also large pleural effusion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Application of PMT large halo crown and vest.  Cervical spondylosis, status post complex anterior cervical discectomy, corpectomy, decompression and fusion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI Brain & MRI C-T spine: Multiple hemangioblastoma in Von Hippel Lindau Disease.
+
+[Unknown] Raw prediction: 
+Description: Underwent tonsillectomy and adenoidectomy two weeks ago.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: History of numbness in both big toes and up the lateral aspect of both calves.  She dose complain of longstanding low back pain, but no pain that radiates from her back into her legs.  She has had no associated weakness.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Bleeding after transanal excision five days ago.  Exam under anesthesia with control of bleeding via cautery.  The patient is a 42-year-old gentleman who is five days out from transanal excision of a benign anterior base lesion.  He presents today with diarrhea and bleeding.
+
+[Unknown] Raw prediction: ______
+The description is about a right common femoral artery cannulation and various angiograms. This
+Description: Right common femoral artery cannulation, cnscious sedation using IV Versed and IV fentanyl, retrograde bilateral coronary angiography, abdominal aortogram with pelvic runoff, left external iliac angiogram with runoff to the patient's left foot, left external iliac angiogram with runoff to the patient's right leg, right common femoral artery angiogram runoff to the patient's right leg.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Colonoscopy due to hematochezia and personal history of colonic polyps.
+
+[Unknown] Raw prediction: ______
+The description is about a patient with pelvic pain and discharge. The patient is a woman.
+Description: Pelvic Pain and vaginal discharge
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: CCTA with cardiac function and calcium scoring.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left muscle sparing mini thoracotomy with left upper lobectomy and mediastinal lymph node dissection.  Intercostal nerve block for postoperative pain relief at five levels.
+
+[Unknown] Raw prediction: ______
+The given medical specialty is ______.
+The given medical specialty is ______.
+The given medical specialty
+Description: Diagnostic operative arthroscopy with repair and reconstruction of anterior cruciate ligament using autologous hamstring tendon, a 40 mm bioabsorbable femoral pin, and a 9 mm bioabsorbable tibial pin.  Repair of lateral meniscus using two fast fixed meniscal repair sutures.  Partial medial meniscectomy.  Partial chondroplasty of patella.  Lateral retinacular release.  Open medial plication as well of the right knee.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cerebrovascular accident (CVA) with right arm weakness and MRI indicating acute/subacute infarct involving the left posterior parietal lobe without mass effect.  2.  Old coronary infarct, anterior aspect of the right external capsule.  Acute bronchitis with reactive airway disease.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Repeat low transverse cervical cesarean section with delivery of a viable female neonate.  Bilateral tubal ligation and partial salpingectomy.  Lysis of adhesions.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Cardiomyopathy and hypotension.  A lady with dementia, coronary artery disease, prior bypass, reduced LV function, and recurrent admissions for diarrhea and hypotension several times.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Chest CT - Thymoma and history of ocular myasthenia gravis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Chronic venous hypertension with painful varicosities, lower extremities, bilaterally.  Greater saphenous vein stripping and stab phlebectomies requiring 10 to 20 incisions, bilaterally.
+
+[Unknown] Raw prediction: ______
+The right L4 selective nerve root block is a common condition in the history of the patient
+Description: Evaluation for right L4 selective nerve root block.
+
+[Unknown] Raw prediction: ______
+The thoracentesis was performed on a 42-year-old female with a history of
+Description: Thoracentesis, left.   Malignant pleural effusion, left, with dyspnea.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Total abdominal hysterectomy (TAH) and left salpingo-oophorectomy.  Hypermenorrhea, uterine fibroids, pelvic pain, left adnexal mass, and pelvic adhesions.
+
+[Unknown] Raw prediction: ______
+The left heart catheterization and bilateral selective coronary angiography were performed. The left vent
+Description: Left heart catheterization and bilateral selective coronary angiography. Left ventriculogram was not performed.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Decompressive laminectomy at T12 with bilateral facetectomies, decompression of T11 and T12 nerve roots bilaterally with posterolateral fusion supplemented with allograft bone chips and pedicle screws and rods with crosslink Synthes ClickX System.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Excision of right superior parathyroid adenoma, seen on sestamibi parathyroid scan and an ultrasound.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Bronchoscopy with aspiration and left upper lobectomy.  Carcinoma of the left upper lobe.
+
+[Unknown] Raw prediction: 
+Description: A white female who presents for complete physical, Pap and breast exam.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: History of polyps.  Total colonoscopy and photography.  Normal colonoscopy, left colonic diverticular disease.  3+ benign prostatic hypertrophy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: EMG/Nerve Conduction Study showing sensory motor length-dependent neuropathy consistent with diabetes, severe left ulnar neuropathy, and moderate-to-severe left median neuropathy,
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Total abdominal hysterectomy (TAH).  Severe menometrorrhagia unresponsive to medical therapy, severe anemia, and symptomatic fibroid uterus.
+
+[Unknown] Raw prediction: ______
+The patient is a 2-year-old with a history of severe pneumonia. The patient is
+Description: The patient was admitted approximately 3 days ago with increasing shortness of breath secondary to pneumonia.  Pulmonary Medicine Associates have been contacted to consult in light of the ICU admission.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right suboccipital craniectomy for resection of tumor using the microscope modifier 22 and cranioplasty.
+
+[Unknown] Raw prediction: ______
+The patient is a 42-year-old female with a history of 10 years
+Description: The patient presented to the emergency room last evening with approximately 7- to 8-day history of abdominal pain which has been persistent.
+
+[Unknown] Raw prediction: ______
+The right subclavian triple lumen central line placement is a procedure that is commonly used
+Description: Right subclavian triple lumen central line placement
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: This is a 62-year-old woman with hypertension, diabetes mellitus, prior stroke who has what sounds like Guillain-Barre syndrome, likely the Miller-Fisher variant.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Laparoscopic cholecystectomy with cholangiogram.  Acute gangrenous cholecystitis with cholelithiasis.  The patient had essentially a dead gallbladder with stones and positive wide bile/pus coming from the gallbladder.
+
+[Unknown] Raw prediction: ______
+The description is about urgent cardiac catheterization with a coronary angiogram. This is a
+Description: Urgent cardiac catheterization with coronary angiogram.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Stage IIIC endometrial cancer.  Adjuvant chemotherapy with cisplatin, Adriamycin, and Abraxane.  The patient is a 47-year-old female who was noted to have abnormal vaginal bleeding in the fall of 2009.
+
+[Unknown] Raw prediction: ______
+The patient is a 50-year-old female with a history of hypertension and hypertension of
+Description: The patient's main complaint is vertigo. The patient is having recurrent attacks of vertigo and imbalance over the last few years with periods of free symptoms and no concurrent tinnitus or hearing impairment.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Pulmonary Medicine Clinic for followup evaluation of interstitial disease secondary to lupus pneumonitis.
+
+[Unknown] Raw prediction: ______
+The patient is a 10-year-old girl with a history of biliary atres
+Description: A 10-year-old with a history of biliary atresia and status post orthotopic liver transplantation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Torn rotator cuff and subacromial spur with impingement syndrome, right shoulder.  Diagnostic arthroscopy with subacromial decompression and open repair of rotator cuff using three Panalok suture anchors.
+
+[Unknown] Raw prediction: ______
+The given medical case description is about Anterior cervical discectomy, which is a
+Description: Anterior cervical discectomy, removal of herniated disc and osteophytes, bilateral C4 nerve root decompression, harvesting of bone for autologous vertebral bodies for creation of arthrodesis, grafting of fibular allograft bone for creation of arthrodesis, creation of arthrodesis via an anterior technique with fibular allograft bone and autologous bone from the vertebral bodies, and placement of anterior spinal instrumentation using the operating microscope and microdissection technique.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Persistent dysphagia.  Deviated nasal septum.  Inferior turbinate hypertrophy.  Chronic rhinitis. Conductive hearing loss.  Tympanosclerosis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Subxiphoid pericardiotomy.  Symptomatic pericardial effusion.  The patient had the appropriate inflammatory workup for pericardial effusion, however, it was nondiagnostic.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right shoulder impingement syndrome, right suprascapular neuropathy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: CT Brain - unshunted hydrocephalus, Dandy-Walker Malformation.
+
+[Unknown] Raw prediction: ______
+The patient is newly diagnosed with squamous cell carcinoma of the base of the tongue bilater
+Description: Newly diagnosed head and neck cancer.  The patient was recently diagnosed with squamous cell carcinoma of the base of the tongue bilaterally and down extension into the right tonsillar fossa.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right hallux abductovalgus deformity.  Right McBride bunionectomy.  Right basilar wedge osteotomy with OrthoPro screw fixation.
+
+[Unknown] Raw prediction: Admitted with a history of chronic hypertension and hypertension with mild hypertension. The patient is a 4
+Description: Admission Psychiatric Evaluation
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cholelithiasis; possible choledocholithiasis.  Laparoscopic cholecystectomy and intraoperative cholangiogram.  A small incision was made in the umbilicus, and a Veress needle was introduced into the abdomen.  CO2 insufflation was done to a maximum pressure of 15 mmHg, and a 12-mm VersaStep port was placed into the umbilicus.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Austin & Youngswick bunionectomy with Biopro implant.  Screw fixation, left foot.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Followup status post L4-L5 laminectomy and bilateral foraminotomies, and L4-L5 posterior spinal fusion with instrumentation.
+
+[Unknown] Raw prediction: Anterior cervical discectomy and osteophytectomy.  Anterior cervical interbody ar
+Description: Anterior cervical discectomy and osteophytectomy.  Application of prosthetic interbody fusion device.  Anterior cervical interbody arthrodesis.  Anterior cervical instrumentation
+
+[Unknown] Raw prediction: ______
+The patient is a 23-year-old female with a history of severe headaches, tunnel
+Description: The patient comes in for a neurology consultation regarding her difficult headaches, tunnel vision, and dizziness.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Mammogram, bilateral full-field digital mammography FFDM (patient with positive history of breast cancer).
+
+[Unknown] Raw prediction: Endovascular Brachytherapy
+Endovascular Brachytherapy is a procedure that is
+Description: Endovascular Brachytherapy (EBT)
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI T-L spine - L2 conus medullaris lesion and syndrome secondary to Schistosomiasis.
+
+[Unknown] Raw prediction: ______
+The patient has a 1-year history of progressive anterograde amnesia. Ant
+Description: Patient with a 1-year history of progressive anterograde amnesia
+
+[Unknown] Raw prediction: ______
+The patient has a history of depression and attention deficit syndrome. The patient has been referred to
+Description: Patient with a long history of depression and attention deficits.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Patient reports a rotational sensation upon arising from the bed or chair that lasts for several minutes and requires her to sit back down and stay in one place.  She gets similar symptoms when she rolls over in bed.  At times, she also feels as though she is going to pass out.  These sensations stop if she just sits in one place or lies down for several minutes.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right carotid stenosis and prior cerebrovascular accident. Right carotid endarterectomy with patch angioplasty.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right shoulder arthroscopy, subacromial decompression, distal clavicle excision, bursectomy, and coracoacromial ligament resection, carpal tunnel release, left knee arthroscopy, and partial medial and lateral meniscectomy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Flexible fiberoptic bronchoscopy diagnostic with right middle and upper lobe lavage and lower lobe transbronchial biopsies.  Mild tracheobronchitis with history of granulomatous disease and TB, rule out active TB/miliary TB.
+
+[Unknown] Raw prediction: ______
+The patient has chest pain, CAD, and cardiomyopathy. The patient has a history
+Description: Patient with chest pains, CAD, and cardiomyopathy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Chronic adenotonsillitis with adenotonsillar hypertrophy.  Upper respiratory tract infection with mild acute laryngitis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Quad blepharoplasty for blepharochalasia and lower lid large primary and secondary bagging.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Need for intravenous access.  Insertion of a right femoral triple lumen catheter.  he patient is also ventilator-dependent, respiratory failure with tracheostomy in place and dependent on parenteral nutrition secondary to dysphagia and also has history of protein-calorie malnutrition and the patient needs to receive total parenteral nutrition and therefore needs central venous access.
+
+[Unknown] Raw prediction: ______
+The left heart catheterization and bilateral selective coronary angiography were performed. The left vent
+Description: Left heart catheterization and bilateral selective coronary angiography. Left ventriculogram was not performed.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Consultation for finger triggering and locking.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Excision of large basal cell carcinoma, right lower lid, and repaired with used dorsal conjunctival flap in the upper lid and a large preauricular skin graft.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Seizure, hypoglycemia, anemia, dyspnea, edema. colon cancer status post right hemicolectomy, hospital-acquired pneumonia, and congestive heart failure.
+
+[Unknown] Raw prediction: ______
+The description pertains to a medical specialty. The description is about a medical procedure. The
+Description: Ash split venous port insertion. The right anterior chest and supraclavicular fossa area, neck, and left side of chest were prepped with Betadine and draped in a sterile fashion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Decompressive left lumbar laminectomy C4-C5 and C5-C6 with neural foraminotomy. Posterior cervical fusion C4-C5.  Songer wire.  Right iliac bone graft.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Organic brain syndrome in the setting of multiple myeloma.  The patient is a 56-year-old male with the history of multiple myeloma, who has been admitted for complains of being dehydrated and was doing good until this morning, was found to be disoriented and confused, was not able to communicate properly, and having difficulty leaving out the words.
+
+[Unknown] Raw prediction: ______
+The patient is a 67-year-old white female with a history of uterine
+Description: The patient is a 67-year-old white female with a history of uterine papillary serous carcinoma who is status post 6 cycles of carboplatin and Taxol, is here today for followup.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Herniated nucleus pulposus C5-C6.  Anterior cervical discectomy fusion C5-C6 followed by instrumentation C5-C6 with titanium dynamic plating system, Aesculap.  Operating microscope was used for both illumination and magnification.
+
+[Unknown] Raw prediction: ______
+The patient is developing gestational diabetes.
+The patient is developing gestational diabetes.
+The patient
+Description: BPP of Gravida 1, para 0 at 33 weeks 5 days by early dating.  The patient is developing gestational diabetes.
+
+[Unknown] Raw prediction: ______
+The description pertains to a medical specialty. The description is about a medical procedure. The
+Description: Selective coronary angiography of the right coronary artery, left main LAD, left circumflex artery, left ventricular catheterization, left ventricular angiography, angioplasty of totally occluded mid RCA, arthrectomy using 6-French catheter, stenting of the mid RCA, stenting of the proximal RCA, femoral angiography and Perclose hemostasis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Dual chamber generator replacement.  The patient is a pleasant patient who presented to the office, recently was found to be at ERI and she has been referred for generator replacement.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right frontotemporal craniotomy and evacuation of hematoma, biopsy of membranes, microtechniques.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Diagnostic mammogram, full-field digital, ultrasound of the breast and mammotome core biopsy of the left breast.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Insertion of subclavian dual-port Port-A-Cath and surgeon-interpreted fluoroscopy.
+
+[Unknown] Raw prediction: The patient is a 42-year-old female with a history of hypertension and hypertension of the head
+Description: CT chest with contrast.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: First Pap smear, complaining of irregular periods.  - Menorrhagia, pelvic pain, dysmenorrhea, and irregular periods.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cerebral Angiogram - moyamoya disease.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Endoscopic-assisted transsphenoidal exploration and radical excision of pituitary adenoma.  Endoscopic exposure of sphenoid sinus with removal of tissue from within the sinus.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: A routine return appointment for a 71-year-old woman with chronic atrial fibrillation.  Chief complaint today is shortness of breath.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Echocardiographic Examination Report.   Angina and coronary artery disease.  Mild biatrial enlargement, normal thickening of the left ventricle with mildly dilated ventricle and EF of 40%, mild mitral regurgitation, diastolic dysfunction grade 2, mild pulmonary hypertension.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: New patient consultation - Low back pain, degenerative disc disease, spinal stenosis, diabetes, and history of prostate cancer status post radiation.
+
+[Unknown] Raw prediction: ______
+Arthroscopic irrigation and debridement of the same with partial synovectomy.
+Description: Arthroscopic irrigation and debridement of same with partial synovectomy.  Septic left total knee arthroplasty.
+
+[Unknown] Raw prediction: ______
+The patient has a worsening shortness of breath and cough. This is a common condition in
+Description: Patient with worsening shortness of breath and cough.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Application of PMT large halo crown and vest.  Cervical spondylosis, status post complex anterior cervical discectomy, corpectomy, decompression and fusion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Excision of right upper eyelid squamous cell carcinoma with frozen section and full-thickness skin grafting from the opposite eyelid.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Low back pain and right lower extremity pain - Lumbar spine herniated nucleus pulposus.
+
+[Unknown] Raw prediction: __________
+The medical specialty is __________.
+The medical specialty is __________.
+The medical specialty
+Description: Psychosocial donor evaluation.  Following questions are mostly involved in a psychosocial donor evaluation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Patient status post vehicular trauma.  Low Back syndrome and Cervicalgia.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: EEG during wakefulness, drowsiness, and sleep with synchronous video monitoring demonstrated no evidence of focal or epileptogenic activity.
+
+[Unknown] Raw prediction: __________
+The patient has a history of bipolar disorder and posttraumatic stress syndrome. The patient
+Description: Psychiatric Assessment of a patient with bipolar and anxiety disorder having posttraumatic stress syndrome.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Acute supraglottitis with airway obstruction and parapharyngeal cellulitis and peritonsillar cellulitis.
+
+[Unknown] Raw prediction: ______
+The description is about an ASD with a septal defect. The specialty is listed as "
+Description: Chest, Single view post OP for ASD (Atrial Septal Defect).
+
+[Unknown] Raw prediction: 
+Description: A 37 year-old female with twin pregnancy with threatened premature labor.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Newly diagnosed cholangiocarcinoma.  The patient is noted to have an increase in her liver function tests on routine blood work.  Ultrasound of the abdomen showed gallbladder sludge and gallbladder findings consistent with adenomyomatosis.
+
+[Unknown] Raw prediction: 
+Description: Dysarthria.  Probable brainstem glioma.
+
+[Unknown] Raw prediction: ______
+The description is about difficulty with both distance vision and with fine print at near. This is
+Description: Difficulty with both distance vision and with fine print at near.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI - Arteriovenous malformation with hemorrhage.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: A 6-year-old male who is a former 27-week premature infant, suffered an intraventricular hemorrhage requiring shunt placement, and as a result, has developmental delay and left hemiparesis.
+
+[Unknown] Raw prediction: ______
+The patient has mild cognitive deficits on a neuropsychological evaluation during a followup appointment for
+Description: Patient demonstrated mild cognitive deficits on a neuropsychological screening evaluation during a followup appointment for stroke.
+
+[Unknown] Raw prediction: ______
+The patient has a history of hyperlipidemia, which is a common condition in the
+Description: Patient with right-sided chest pain, borderline elevated high blood pressure, history of hyperlipidemia, and obesity.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right distal both-bone forearm fracture.  Closed reduction under conscious sedation and application of a splint was warranted.
+
+[Unknown] Raw prediction: ______
+The patient is a 50-year-old male with a history of hypertension and hypertension of
+Description: Patient returns for his first followup after shunt surgery.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right frontotemporoparietal craniotomy, evacuation of acute subdural hematoma.   Acute subdural hematoma, right, with herniation syndrome.
+
+[Unknown] Raw prediction: ______
+The description is about an exam of the normal ear, nose, mouth, and throat.
+Description: Sample normal ear, nose, mouth, and throat exam.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Pregnant female with nausea, vomiting, and diarrhea.  OB ultrasound less than 14 weeks, transvaginal.
+
+[Unknown] Raw prediction: ______
+The answer is nuclear cardiac stress report.
+Description: Nuclear cardiac stress report.  Recurrent angina pectoris in a patient with documented ischemic heart disease and underlying ischemic cardiomyopathy.
+
+[Unknown] Raw prediction: Anterior cervical discectomy with decompression, C5-C6, arthrodesis
+Description: Anterior cervical discectomy with decompression, C5-C6, arthrodesis with anterior interbody fusion, C5-C6, spinal instrumentation, C5-C6 using Pioneer 18-mm plate and four 14 x 4.0 mm screws (all titanium), implant using PEEK 7 mm, and Allograft using Vitoss.
+
+[Unknown] Raw prediction: ______
+The answer is ______.
+The correct answer is ______.
+The correct answer is ______.
+The
+Description: Consultation for evaluation of thrombocytopenia.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Pulmonary function test.  Mild-to-moderate obstructive ventilatory impairment.  Some improvement in the airflows after bronchodilator therapy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI T-spine and CXR - Aortic Dissection.
+
+[Unknown] Raw prediction: ______
+The description is about twin pregnancy with threatened preterm labor. This is a medical specialty in
+Description: Twin pregnancy with threatened preterm labor.
+
+[Unknown] Raw prediction: ______
+The patient is a 23-year-old female with a history of hip pain for the
+Description: A woman presenting to our clinic for the first time for evaluation of hip pain, right greater than left, of greater than 2 years duration.  The pain is located laterally as well as anteriorly into the groin.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Patient  follows up for cataract extraction with lens implant 2 weeks ago.   Recovering well from her cataract operation in the right eye with residual corneal swelling, which should resolve in the next 2 to 3 weeks.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI Spine - T12-L5 epidural lipoma and thoracic spinal cord infarction vs. transverse myelitis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Insertion of a double lumen port through the left femoral vein, radiological guidance.  Open exploration of the left subclavian and axillary vein.  Metastatic glossal carcinoma, needing chemotherapy and a port.
+
+[Unknown] Raw prediction: __________
+The left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph
+Description: Left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Pulmonary function test.  Mild-to-moderate obstructive ventilatory impairment.  Some improvement in the airflows after bronchodilator therapy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Laparoscopic cholecystectomy with cholangiogram.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Dementia and aortoiliac occlusive disease bilaterally.  Aortobifemoral bypass surgery utilizing a bifurcated Hemashield graft.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: EGD with photos and biopsies.  This is a 75-year-old female who presents with difficulty swallowing, occasional choking, and odynophagia.  She has a previous history of hiatal hernia.  She was on Prevacid currently.
+
+[Unknown] Raw prediction: ______
+The patient is a 12-day-old infant who has undergone a modified stage I Nor
+Description: Mediastinal exploration and delayed primary chest closure.  The patient is a 12-day-old infant who has undergone a modified stage I Norwood procedure with a Sano modification.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: A lady was admitted to the hospital with chest pain and respiratory insufficiency.  She has chronic lung disease with bronchospastic angina.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Status post left hip fracture and hemiarthroplasty.   Rehab transfer as soon as medically cleared.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MGUS.  His bone marrow biopsy showed a normal cellular bone marrow; however, there were 10% plasma cells and we proceeded with the workup for a plasma cell dyscrasia.  All his tests came back as consistent with an MGUS.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Subcutaneous ulnar nerve transposition.  A curvilinear incision was made over the medial elbow, starting proximally at the medial intermuscular septum, curving posterior to the medial epicondyle, then curving anteriorly along the path of the ulnar nerve.  Dissection was carried down to the ulnar nerve.
+
+[Unknown] Raw prediction: ______
+The left third digit numbness and wrist pain is a common symptom of a condition called car
+Description: Left third digit numbness and wrist pain.
+
+[Unknown] Raw prediction: ______
+The medical specialty is ______.
+The medical specialty is ______.
+The medical specialty is ______.
+Description: A 62-year-old male with a history of ischemic cardiomyopathy and implanted defibrillator.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Phenol neurolysis right obturator nerve, botulinum toxin injection right rectus femoris and vastus medialis intermedius and right pectoralis major muscles.
+
+[Unknown] Raw prediction: ______
+The patient is a 60-year-old female with a history of syncope.
+Description: Tilt table test.  A patient with past medical history of syncope.  The patient is also complaining of dizziness.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Laparotomy and myomectomy.   Enlarged fibroid uterus and blood loss anemia.  On bimanual exam, the patient has an enlarged, approximately 14-week sized uterus that is freely mobile and anteverted with no adnexal masses.  Surgically, the patient has an enlarged fibroid uterus with a large fundal/anterior fibroids.
+
+[Unknown] Raw prediction: ______
+The patient is a 11-month-old with a diagnosis of stage 2 neuroblast
+Description: The patient is an 11-month-old with a diagnosis of stage 2 neuroblastoma of the right adrenal gland with favorable Shimada histology and history of stage 2 left adrenal neuroblastoma, status post gross total resection.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Resting Myoview perfusion scan and gated myocardial scan.  Findings consistent with an inferior non-transmural scar
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Coronary artery bypass grafting (CABG) x4.  Progressive exertional angina, three-vessel coronary artery disease, left main disease, preserved left ventricular function.
+
+[Unknown] Raw prediction: ______
+The description is about a left laparoscopic hand-assisted nephrectomy. This is
+Description: Left laparoscopic hand-assisted nephrectomy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Excision of mass, left second toe and distal Symes amputation, left hallux with excisional biopsy.  Mass, left second toe.  Tumor.  Left hallux bone invasion of the distal phalanx.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Combined closed vitrectomy with membrane peeling, fluid-air exchange, and endolaser, right eye.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Type 1 diabetes mellitus, insulin pump requiring.  Chronic kidney disease, stage III.  Sweet syndrome, hypertension, and dyslipidemia.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI L-S-Spine for Cauda Equina Syndrome secondary to L3-4 disc herniation - Low Back Pain (LBP) with associated BLE weakness.
+
+[Unknown] Raw prediction: ______
+The left heart catheterization and angiography are used to evaluate the left ventricle
+Description: Left heart catheterization with coronary angiography, vein graft angiography and left ventricular pressure measurement and angiography.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: OB Ultrasound - A 29-year-old female requests for size and date of pregnancy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Biopsy-proven mesothelioma - Placement of Port-A-Cath, left subclavian vein with fluoroscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI of elbow - A middle-aged female with moderate pain, severe swelling and a growth on the arm.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Dysphagia and hematemesis while vomiting.  Diffuse esophageal dilatation/hematemesis
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left C5-6 hemilaminotomy and foraminotomy with medial facetectomy for microscopic decompression of nerve root.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Removal of the old right pressure equalizing tube.  Myringotomy with placement of a left pressure equalizing tube.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cystourethroscopy, bilateral retrograde pyelogram, and transurethral resection of bladder tumor of 1.5 cm in size.  Recurrent bladder tumor and history of bladder carcinoma.
+
+[Unknown] Raw prediction: ______
+The description is about a procedure, which is a medical specialty. The procedure is a medical
+Description: Blepharoplasty procedure
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left muscle sparing mini thoracotomy with left upper lobectomy and mediastinal lymph node dissection.  Intercostal nerve block for postoperative pain relief at five levels.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cervical spondylosis and kyphotic deformity.  She had a nerve conduction study and a diagnosis of radiculopathy was made.  She had an MRI of lumbosacral spine, which was within normal limits.  She then developed a tingling sensation in the right middle toe.
+
+[Unknown] Raw prediction: Left lower lobectomy.
+The left lower lobectomy is a procedure performed on a patient with a history
+Description: Left lower lobectomy.
+
+[Unknown] Raw prediction: 
+Description: Pediatric Gastroenterology - Rectal Bleeding Consult.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Open reduction, nasal fracture with nasal septoplasty.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Decreased ability to perform daily living activities secondary to right knee surgery.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Percutaneous liver biopsy.   With the patient lying in the supine position and the right hand underneath the head, an area of maximal dullness was identified in the mid-axillary location by percussion.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Breast radiation therapy followup note. Left breast adenocarcinoma stage T3 N1b M0, stage IIIA.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Patient with a diagnosis of pancreatitis, developed hypotension and possible sepsis and respiratory, as well as renal failure.
+
+[Unknown] Raw prediction: ______
+Cardioversion.  Unsuccessful direct current cardioversion with permanent atrial fibrillation.
+Description: Cardioversion.  Unsuccessful direct current cardioversion with permanent atrial fibrillation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left heart catheterization with left ventriculography and selective coronary angiography.  A 50% distal left main and two-vessel coronary artery disease with normal left ventricular systolic function.  Frequent PVCs.  Metabolic syndrome.
+
+[Unknown] Raw prediction: ______
+The right upper lobe wedge biopsy shows a poorly differentiated non-small cell carcinoma with a solid
+Description: The right upper lobe wedge biopsy shows a poorly differentiated non-small cell carcinoma with a solid growth pattern and without definite glandular differentiation by light microscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Direct laryngoscopy and bronchoscopy.
+
+[Unknown] Raw prediction: 
+Description: Stroke in distribution of recurrent artery of Huebner (left)
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Hemarthrosis, left knee, status post total knee replacement, rule out infection.  Arthrotomy, irrigation and debridement, and polyethylene exchange, left knee.  No complications were encountered throughout the procedure.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Redo L4-5 diskectomy, left - recurrent herniation L4-5 disk with left radiculopathy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Total colonoscopy and polypectomy
+
+[Unknown] Raw prediction: The patient is a 50-year-old female with a history of hypertension and hypertension of the blood
+Description: Superior labrum anterior and posterior lesion repair.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: This is a 62-year-old woman with hypertension, diabetes mellitus, prior stroke who has what sounds like Guillain-Barre syndrome, likely the Miller-Fisher variant.
+
+[Unknown] Raw prediction: ______
+The following is a medical specialty description. The medical specialty is the category of the medical specialty
+Description: Followup on chronic kidney disease.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Carpal tunnel syndrome.  Open carpal tunnel release.  A longitudinal incision was made in line with the 4th ray.  The dissection was carried down to the superficial aponeurosis, which was cut.  The distal edge of the transverse carpal ligament was identified with a hemostat.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left breast cancer.  Nuclear medicine lymphatic scan.  A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.
+
+[Unknown] Raw prediction: ______
+The patient is a 50-year-old male with known alcohol cirrhosis. He
+Description: A male with known alcohol cirrhosis who presented to the emergency room after an accidental fall in the bathroom.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Myocardial perfusion imaging - patient with history of MI, stents placement, and chest pain.
+
+[Unknown] Raw prediction: ______
+The answer is Phacoemulsification with posterior chamber intraocular lens insertion.
+Phaco
+Description: Phacoemulsification with posterior chamber intraocular lens insertion.
+
+[Unknown] Raw prediction: ______
+The patient is a 42-year-old female with a history of hypertension and hypertension of
+Description: Cerebrovascular accident (CVA).  The patient presents to the emergency room after awakening at 2:30 a.m. this morning with trouble swallowing, trouble breathing, and left-sided numbness and weakness.
+
+[Unknown] Raw prediction: ______
+The patient is a 42-year-old female with a history of hypertension and hypertension of
+Description: Patient seen initially with epigastric and right upper quadrant abdominal pain, nausea, dizziness, and bloating.
+
+[Unknown] Raw prediction: ______
+The patient is a 50-year-old female with a history of severe head trauma and
+Description: The patient is having recurrent attacks of imbalance rather than true vertigo following the history of head trauma and loss of consciousness.  Symptoms are not accompanied by tinnitus or deafness.
+
+[Unknown] Raw prediction: ______
+The description is about chronic headaches and tinnitus, which are both related to the nervous system
+Description: Chronic headaches and pulsatile tinnitus.
+
+[Unknown] Raw prediction: ______
+The patient is a 74-year-old woman who presents for neurological consultation for possible adult
+Description: The patient is a 74-year-old woman who presents for neurological consultation for possible adult hydrocephalus.  Mild gait impairment and mild cognitive slowing.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Exploratory laparotomy, lysis of adhesions, and right hemicolectomy.  Right colon cancer, ascites, and adhesions.
+
+[Unknown] Raw prediction: ______
+The patient is a 62-year-old African American female with a history of hypertension,
+Description: The patient is a very pleasant 62-year-old African American female with a history of hypertension, hypercholesterolemia, and CVA, referred for evaluation and management of atrial fibrillation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MGUS.  His bone marrow biopsy showed a normal cellular bone marrow; however, there were 10% plasma cells and we proceeded with the workup for a plasma cell dyscrasia.  All his tests came back as consistent with an MGUS.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Carpal tunnel syndrome.  Endoscopic carpal tunnel release.  After administering appropriate antibiotics and MAC anesthesia, the upper extremity was prepped and draped in the usual standard fashion, the arm was exsanguinated with Esmarch, and the tourniquet inflated to 250 mmHg.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Transesophageal echocardiogram due to vegetation and bacteremia. Normal left ventricular size and function.  Echodensity involving the aortic valve suggestive of endocarditis and vegetation. Doppler study as above most pronounced being moderate-to-severe aortic insufficiency.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Insertion of transvenous pacemaker for tachybrady syndrome
+
+[Unknown] Raw prediction: ______
+The description is about a surgical procedure. It describes the excision of a nerve fiber,
+Description: Excision dorsal ganglion, right wrist.   The extensor retinaculum was then incised and the extensor tendon was dissected and retracted out of the operative field.
+
+[Unknown] Raw prediction: ______
+The lumbar puncture is a procedure that is used to check for internal bleeding in the
+Description: Lumbar puncture with moderate sedation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: He awoke one morning and had double vision.  He states when he closed each eye, the double vision dissipated.  The double vision entirely dissipated within one hour.   The next day he woke up and he had double vision again.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Abnormal liver enzymes and diarrhea.  CT pelvis with contrast and ct abdomen with and without contrast.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: DDDR permanent pacemaker, insertion of a steroid-eluting screw in right atrial lead, insertion of a steroid-eluting screw in right ventricular apical lead, pulse generator insertion, model Sigma,
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Fiberoptic flexible bronchoscopy with lavage, brushings, and endobronchial mucosal biopsies of the right bronchus intermedius/right lower lobe.  Right hyoid mass, rule out carcinomatosis.  Chronic obstructive pulmonary disease.  Changes consistent with acute and chronic bronchitis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Right burr hole craniotomy for evacuation of subdural hematoma and placement of subdural drain.
+
+[Unknown] Raw prediction: ______
+The description is about a patient with a headache and diplopia. The patient is a
+Description: Headache and diplopia.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Juxtaductal coarctation of the aorta, dilated cardiomyopathy, bicuspid aortic valve, patent foramen ovale.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Intensity-modulated radiation therapy simulation note.  The patient will receive intensity-modulated radiation therapy in order to deliver high-dose treatment to sensitive structures.
+
+[Unknown] Raw prediction: __________
+The description is about a patient with substance abuse, which is a medical specialty. The
+Description: Psychiatric consultation for substance abuse.
+
+[Unknown] Raw prediction: ______
+The description is about a 3-year-old child with sudden onset of cough and increased work
+Description: A 3-year-old abrupt onset of cough and increased work of breathing.
+
+[Unknown] Raw prediction: 
+Description: MRI: Right parietal metastatic adenocarcinoma (LUNG) metastasis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Foul-smelling urine and stomach pain after meals.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI Brain - Progressive Multifocal Leukoencephalopathy (PML) occurring in an immunosuppressed patient with polymyositis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Resection of left chest wall tumor, partial resection of left diaphragm, left lower lobe lung wedge resection, left chest wall reconstruction with Gore-Tex mesh.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: A 51-year-old male with chest pain and history of coronary artery disease.
+
+[Unknown] Raw prediction: __________
+The left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph
+Description: Left metastasectomy of metastatic renal cell carcinoma with additional mediastinal lymph node dissection and additional fiberoptic bronchoscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Closed head injury with evidence of axonal injury vs. vascular injury to the left substantia nigra, right subdural hematoma and possible subarachnoid hemorrhage, vascular/ischemic injury in the right occipital lobe-right basal ganglia/caudate nucleus-right frontal lobe, and right temporal lobe contusion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: CT Brain to evaluate episodic mental status change, RUE numbness, chorea, and calcification of Basal Ganglia (globus pallidi).
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Trimalleolar ankle fracture and dislocation right ankle.  A comminuted fracture involving the lateral malleolus, as well as a medial and posterior malleolus fracture as well.  Closed open reduction and internal fixation of right ankle.
+
+[Unknown] Raw prediction: 
+Description: MRI T-spine: Metastatic Adenocarcinoma of the T3-T4 vertebrae and invading the spinal canal.
+
+[Unknown] Raw prediction: ______
+The description is about a mother with wheezing and coughing. The medical specialty is
+Description: Mother states he has been wheezing and coughing.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Phenol neurolysis right obturator nerve, botulinum toxin injection right rectus femoris and vastus medialis intermedius and right pectoralis major muscles.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI Brain & MRI C-T spine: Multiple hemangioblastoma in Von Hippel Lindau Disease.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Loculated left effusion, multilobar pneumonia.  Patient  had a diagnosis of multilobar pneumonia along with arrhythmia and heart failure as well as renal insufficiency.
+
+[Unknown] Raw prediction: Anterior cervical discectomy, arthrodesis, partial corpectomy, Microscopic
+Description: Anterior cervical discectomy, arthrodesis, partial corpectomy, Machine bone allograft, placement of anterior cervical plate with a Zephyr.7.  Microscopic dissection.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Nausea and abdominal pain after eating - Gall bladder disease - Laparoscopic cholecystectomy scheduled.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left knee arthroscopy with removal of the cartilage loose body and microfracture of the medial femoral condyle with chondroplasty.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left breast mass and hypertrophic scar of the left breast.  Excision of left breast mass and revision of scar.  The patient is status post left breast biopsy, which showed a fibrocystic disease with now a palpable mass just superior to the previous biopsy site.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Ligation and stripping of left greater saphenous vein to the level of the knee.  Stripping of multiple left lower extremity varicose veins.  Varicose veins.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Lightheaded, dizziness, and palpitation.  This morning, the patient experienced symptoms of lightheaded, dizziness, felt like passing out; however, there was no actual syncope.  During the episode, the patient describes symptoms of palpitation and fluttering of chest.  She relates the heart was racing.  By the time when she came into the Emergency Room, her EKG revealed normal sinus rhythm.  No evidence of arrhythmia.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Lexiscan Nuclear Myocardial Perfusion Scan.  Chest pain.  Patient unable to walk on a treadmill.  Nondiagnostic Lexiscan.  Normal nuclear myocardial perfusion scan.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Nonischemic cardiomyopathy, branch vessel coronary artery disease, congestive heart failure - NYHA Class III, history of nonsustained ventricular tachycardia, hypertension, and hepatitis C.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Postpartum tubal ligation and removal of upper abdominal skin wall mass.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Successful stenting of the left anterior descending.  Angina pectoris, tight lesion in left anterior descending.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Frontal craniotomy for placement of deep brain stimulator electrode.  Microelectrode recording of deep brain structures. Intraoperative programming and assessment of device.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Open reduction internal fixation of the left supracondylar, intercondylar distal femur fracture.
+
+[Unknown] Raw prediction: 
+Description: Microscopic lumbar discectomy, left L5-S1.   Extruded herniated disc, left L5-S1.  Left S1 radiculopathy (acute). Morbid obesity.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: A 68-year-old white male with recently diagnosed adenocarcinoma by sputum cytology.  An abnormal chest radiograph shows right middle lobe infiltrate and collapse.  Patient needs staging CT of chest with contrast.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: This is a 48-year-old black male with stage IV chronic kidney disease likely secondary to HIV nephropathy, although there is no history of renal biopsy, who has been noncompliant with the Renal Clinic and presents today for followup at the recommendation of his Infection Disease doctors.
+
+[Unknown] Raw prediction: The patient is a 50-year-old female with a history of hypertension, hypertension, and hypertension
+Description: 2-D M-Mode. Doppler.
+
+[Unknown] Raw prediction: ______
+The patient is newly diagnosed with squamous cell carcinoma of the base of the tongue bilater
+Description: Newly diagnosed head and neck cancer.  The patient was recently diagnosed with squamous cell carcinoma of the base of the tongue bilaterally and down extension into the right tonsillar fossa.
+
+[Unknown] Raw prediction: Flexible Sigmoidoscopy is a procedure that is used to examine the lower part of the throat and
+Description: Flexible Sigmoidoscopy.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Acute on chronic COPD exacerbation and community acquired pneumonia both resolving.  However, she may need home O2 for a short period of time.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Caudate Nuclei atrophy, bilaterally, in patient with Huntington Disease.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Tracheostomy with skin flaps and SCOOP procedure FastTract.  Oxygen dependency of approximately 5 liters nasal cannula at home and chronic obstructive pulmonary disease.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Fiberoptic bronchoscopy, diagnostic.  Hemoptysis and history of lung cancer.  Tumor occluding right middle lobe with friability.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Transesophageal echocardiogram.   The transesophageal probe was introduced into the posterior pharynx and esophagus without difficulty.
+
+[Unknown] Raw prediction: ______
+The left below-the-knee amputation is a procedure that is commonly performed in the emergency
+Description: Left below-the-knee amputation.  Dressing change, right foot.
+
+[Unknown] Raw prediction: Anterior cervical discectomy and osteophytectomy.  Anterior cervical interbody ar
+Description: Anterior cervical discectomy and osteophytectomy.  Application of prosthetic interbody fusion device.  Anterior cervical interbody arthrodesis.  Anterior cervical instrumentation
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Displaced left subtrochanteric femur fracture.  Intramedullary rod in the left hip using the Synthes trochanteric fixation nail measuring 11 x 130 degrees with an 85-mm helical blade.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Ventriculoperitoneal shunt revision with replacement of ventricular catheter and flushing of the distal end.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Repair of entropion, left upper lid, with excision of anterior lamella and cryotherapy.  Repairs of blepharon, entropion, right lower lid with mucous membrane graft.
+
+[Unknown] Raw prediction: ______
+The child was born to a working mother who had a history of hypertension and diabetes. The
+Description: A 5-month-old boy brought by his parents because of 2 days of cough.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left breast mass and hypertrophic scar of the left breast.  Excision of left breast mass and revision of scar.  The patient is status post left breast biopsy, which showed a fibrocystic disease with now a palpable mass just superior to the previous biopsy site.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: This 61-year-old retailer who presents with acute shortness of breath, hypertension, found to be in acute pulmonary edema.   No confirmed prior history of heart attack, myocardial infarction, heart failure.
+
+[Unknown] Raw prediction: ______
+The left chest tube placement is a procedure that is commonly used to manage a left pleural
+Description: Left pleural effusion, parapneumonic, loculated.  Left chest tube placement.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cervical cone biopsy, dilatation & curettage
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Bronchoscopy for persistent cough productive of sputum requiring repeated courses of oral antibiotics over the last six weeks in a patient who is a recipient of a bone marrow transplant with end-stage chemotherapy and radiation-induced pulmonary fibrosis.
+
+[Unknown] Raw prediction: ______
+The thoracic spine was examined in the AP, lateral, and swimmer's projections.
+Description: The thoracic spine was examined in the AP, lateral and swimmer's projections.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Laparoscopy with left salpingo-oophorectomy.  Left adnexal mass/ovarian lesion.  The labia and perineum were within normal limits.  The hymen was found to be intact.  Laparoscopic findings revealed a 4 cm left adnexal mass, which appeared fluid filled.
+
+[Unknown] Raw prediction: ______
+The patient is a 7-year-old white male. The patient is a 7-year
+Description: A 7-year-old white male started to complain of pain in his fingers, elbows, and neck.  This patient may have had reactive arthritis.
+
+[Unknown] Raw prediction: ______
+The mass was located on the left nipple and was free to move.  This was a
+Description: Excision of left breast mass.  The mass was identified adjacent to the left nipple.  It was freely mobile and it did not seem to hold the skin.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Placement of right new ventriculoperitoneal (VP) shunts Strata valve and to removal of right frontal Ommaya reservoir.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Placement of a subclavian single-lumen tunneled Hickman central venous catheter.  Surgeon-interpreted fluoroscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cerebral Angiogram - Lobulated aneurysm of the supraclinoid portion of the left internal carotid artery close to the origin of the left posterior communicating artery.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Morbid obesity.  Laparoscopic Roux-en-Y gastric bypass, antecolic, antegastric with 25-mm EEA anastamosis, esophagogastroduodenoscopy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: This is a 69-year-old white woman with Huntington disease, who presents with the third suicide attempt in the past two months.
+
+[Unknown] Raw prediction: ______
+The patient has a lower extremity claudication. The specialty is ______.
+The patient
+Description: Aortogram with bilateral, segmental lower extremity run off.  Left leg claudication.  The patient presents with lower extremity claudication.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cardiolite treadmill exercise stress test.  The patient was exercised on the treadmill to maximum tolerance achieving after 5 minutes a peak heart rate of 137 beats per minute with a workload of 2.3 METS.
+
+[Unknown] Raw prediction: ______
+The patient is a 26-year-old female, referred to Physical Therapy for low back
+Description: The patient is a 26-year-old female, referred to Physical Therapy for low back pain.  The patient has a history of traumatic injury to low back.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Bilateral pleural effusion.  Removal of bilateral #32 French chest tubes with closure of wound.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Need for cardiac catheterization.  Coronary artery disease, chest pain, history of diabetes, history of hypertension, history of obesity,  a 1.1 cm lesion in the medial aspect of the right parietal lobe, and deconditioning.
+
+[Unknown] Raw prediction: ______
+The description is about a patient with a history of hypertension and a history of hypertension and hypertension
+Description: Carotid Ultrasonic & Color Flow Imaging
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Noncontrast CT scan of the lumbar spine.  Left lower extremity muscle spasm.  Transaxial thin slice CT images of the lumbar spine were obtained with sagittal and coronal reconstructions on emergency basis, as requested.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Esophagogastroduodenoscopy and colonoscopy with polypectomy
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Flexible fiberoptic bronchoscopy with right lower lobe bronchoalveolar lavage and right upper lobe endobronchial biopsy.  Severe tracheobronchitis, mild venous engorgement with question varicosities associated pulmonary hypertension, right upper lobe submucosal hemorrhage without frank mass underneath it status post biopsy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left carotid endarterectomy with endovascular patch angioplasty.  Critical left carotid stenosis.  The external carotid artery was occluded at its origin.  When the endarterectomy was performed, the external carotid artery back-bled nicely.  The internal carotid artery had good backflow bleeding noted.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Esophagogastroduodenoscopy with gastric biopsies.  Antral erythema; 2 cm polypoid pyloric channel tissue, questionable inflammatory polyp which was biopsied; duodenal erythema and erosion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Echocardiogram was performed including 2-D and M-mode imaging.
+
+[Unknown] Raw prediction: ______
+The patient is a 67-year-old white female with a history of uterine
+Description: The patient is a 67-year-old white female with a history of uterine papillary serous carcinoma who is status post 6 cycles of carboplatin and Taxol, is here today for followup.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Asked to see the patient in regards to a brain tumor.  She was initially diagnosed with a glioblastoma multiforme.  She presented with several lesions in her brain and a biopsy confirmed the diagnosis.
+
+[Unknown] Raw prediction: ______
+The description is about a patient with adult hydrocephalus, which is a condition where the
+Description: Woman with adult hydrocephalus, routine evaluation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Delivery is a normal spontaneous vaginal delivery of an intrauterine fetal demise.  Fetal position is right occiput anterior.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Open reduction internal fixation of the left supracondylar, intercondylar distal femur fracture.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Dobutamine Stress Echocardiogram.  Chest discomfort, evaluation for coronary artery disease.  Maximal dobutamine stress echocardiogram test achieving more than 85% of age-predicted heart rate.  Negative EKG criteria for ischemia.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI L-S-Spine for Cauda Equina Syndrome secondary to L3-4 disc herniation - Low Back Pain (LBP) with associated BLE weakness.
+
+[Unknown] Raw prediction: ______
+The patient is a 50-year-old male with known alcohol cirrhosis. He
+Description: A male with known alcohol cirrhosis who presented to the emergency room after an accidental fall in the bathroom.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: To evaluate recurrent episodes of uncomfortable feeling in arm at rest, as well as during exertion.
+
+[Unknown] Raw prediction: ______
+The right pontine pyramidal tract infarct is a common condition in the history
+Description: Right pontine pyramidal tract infarct.
+
+[Unknown] Raw prediction: ______
+The patient has a history of premature coronary artery disease and has been evaluated for recurrent chest pain
+Description: Patient with a family history of premature coronary artery disease came in for evaluation of recurrent chest pain
+
+[Unknown] Raw prediction: ______
+The patient has a slow ventricular response to medications. This is a common condition in patients
+Description: Patient with atrial fibrillation with slow ventricular response, partially due to medications.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Dilation and evacuation.  12 week incomplete miscarriage.  The patient unlike her visit in the ER approximately 4 hours before had some tissue in the vagina protruding from the os, this was teased out and then a D&E was performed yielding significant amount of central tissue.
+
+[Unknown] Raw prediction: __________
+Arthroscopic subacromial decompression and repair of rotator cuff through mini
+Description: Arthroscopic subacromial decompression and repair of rotator cuff through mini-arthrotomy.
+
+[Unknown] Raw prediction: Radical vulvectomy (complete), bilateral inguinal lymphadenectomy (superficial and
+Description: Radical vulvectomy (complete), bilateral inguinal lymphadenectomy (superficial and deep).
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Laparoscopic hand-assisted left adrenalectomy and umbilical hernia repair.  Patient with a 5.5-cm diameter nonfunctioning mass in his right adrenal.
+
+[Unknown] Raw prediction: 
+Description: Comprehensive Clinical Psychological Evaluation as part of a Disability Determination action.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Total abdominal hysterectomy and bilateral salpingo-oophorectomy.
+
+[Unknown] Raw prediction: ______
+The patient has a history of aortic valve disease, which was recently replaced with a new
+Description: The patient has a previous history of aortic valve disease, status post aortic valve replacement, a previous history of paroxysmal atrial fibrillation, congestive heart failure, a previous history of transient ischemic attack with no residual neurologic deficits.
+
+[Unknown] Raw prediction: ______
+The description is about a right shoulder pain. The specialist is a neurologist. The
+Description: Consultation for right shoulder pain.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Cosmetic rhinoplasty.  Request for cosmetic change in the external appearance of the nose.
+
+[Unknown] Raw prediction: ______
+The patient is a 42-year-old female with a history of hypertension and hypertension of
+Description: Patient presents to the emergency room with complaints of mid-epigastric and right upper quadrant abdominal pain for the last 14 days.
+
+[Unknown] Raw prediction: ______
+The case is described as: Insertion of a permanent pacemaker.  This is a
+Description: Insertion of a VVIR permanent pacemaker.  This is an 87-year-old Caucasian female with critical aortic stenosis with an aortic valve area of 0.5 cm square and recurrent congestive heart failure symptoms mostly refractory to tachybrady arrhythmias
+
+[Unknown] Raw prediction: ______
+The medical specialty is ______.
+The medical specialty is ______.
+The medical specialty is ______.
+Description: Acute cholecystitis.  Laparoscopic cholecystectomy.  The abdominal area was prepped and draped in the usual sterile fashion.  A small skin incision was made below the umbilicus.  It was carried down in the transverse direction on the side of her old incision.  It was carried down to the fascia.
+
+[Unknown] Raw prediction: __________
+The answer is:
+Description: Appendicitis, nonperforated.  Appendectomy.  A transverse right lower quadrant incision was made directly over the point of maximal tenderness.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Patient experiences a dull pain in his upper outer arm.  It occurs on a daily basis.  He also experiences an achy sensation in his right hand radiating to the fingers.  There is no numbness or paresthesias in the hand or arm.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Head injury, anxiety, and hypertensive emergency.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: True cut needle biopsy of the breast.  This 65-year-old female on exam was noted to have dimpling and puckering of the skin associated with nipple discharge.  On exam, she has a noticeable carcinoma of the left breast with dimpling, puckering, and erosion through the skin.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Sterilization candidate.  Cervical dilatation and laparoscopic bilateral partial salpingectomy.  A 30-year-old female gravida 4, para-3-0-1-3 who desires permanent sterilization.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Decompressive left lumbar laminectomy C4-C5 and C5-C6 with neural foraminotomy. Posterior cervical fusion C4-C5.  Songer wire.  Right iliac bone graft.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Carbon dioxide laser photo-ablation due to recurrent dysplasia of vulva.
+
+[Unknown] Raw prediction: ______
+Arthroscopy is used to repair or replace damaged joints. It is commonly used in the
+Description: Arthroscopy with arthroscopic rotator cuff debridement, anterior acromioplasty, and Mumford procedure left shoulder.  Partial rotator cuff tear with impingement syndrome.  Degenerative osteoarthritis of acromioclavicular joint, left shoulder, rule out slap lesion.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI Brain, Carbon Monoxide poisoning.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Intrauterine pregnancy at term with previous cesarean.   Desired sterilization.  Status post repeat low transverse cesarean and bilateral tubal ligation.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Open reduction and internal plate and screw fixation of depressed anterior table right frontal sinus, transconjunctival exploration of orbital floor, open reduction of nasal septum and nasal pyramid fracture with osteotomy.
+
+[Unknown] Raw prediction: 
+Description: Noncontrast CT abdomen and pelvis per renal stone protocol.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Complete laminectomy, L4. and facetectomy, L3-L4 level.  A dural repair, right sided, on the lateral sheath, subarticular recess at the L4 pedicle level.  Posterior spinal instrumentation, L4 to S1, using Synthes Pangea System.  Posterior spinal fusion, L4 to S1.  Insertion of morselized autograft, L4 to S1.
+
+[Unknown] Raw prediction: Standard Laparoscopic Cholecystectomy Operative Note.
+
+The specialty is: ________.
+The
+Description: Standard Laparoscopic Cholecystectomy Operative Note.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Mild-to-moderate diverticulosis.  She was referred for a screening colonoscopy.  There is no family history of colon cancer.  No evidence of polyps or malignancy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Abnormal EKG and rapid heart rate.  The patient came to the emergency room.  Initially showed atrial fibrillation with rapid ventricular response.  It appears that the patient has chronic atrial fibrillation.  She denies any specific chest pain.  Her main complaint is shortness of breath and symptoms as above.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Back pain and right leg pain.  Small cell lung cancer with metastasis at the lower lumbar spine, pelvis, and both femurs
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Insertion of central venous line and arterial line and transesophageal echocardiography probe.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Abnormal electronystagmogram demonstrating prominent nystagmus on position testing in the head hanging right position.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: 13 years old complaining about severe ear pain - Chronic otitis media.
+
+[Unknown] Raw prediction: Endoscopic third ventriculostomy is a procedure that involves inserting a stent into the third
+Description: Endoscopic third ventriculostomy.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Exploratory laparotomy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, right and left pelvic lymphadenectomy, common iliac lymphadenectomy, and endometrial cancer staging procedure.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: A female admitted with jaundice and a pancreatic mass who was noted to have a new murmur, bacteremia, and fever.
+
+[Unknown] Raw prediction: ______
+The patient has back pain and hip pain. The patient is a 50-year-old
+Description: Patient with back and hip pain.
+
+[Unknown] Raw prediction: Anterior cervical discectomy, osteophytectomy, foraminotomies, spinal
+Description: Anterior cervical discectomy, osteophytectomy, foraminotomies, spinal cord decompression, fusion with machined allografts, Eagle titanium plate, Jackson-Pratt drain placement, and intraoperative monitoring with EMGs and SSEPs
+
+[Unknown] Raw prediction: 
+Description: Delayed open reduction internal fixation with plates and screws, 6-hole contoured distal fibular plate and screws reducing posterolateral malleolar fragment as well as medial malleolar fragment.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Myoview nuclear stress study.  Angina, coronary artery disease.  Large fixed defect, inferior and apical wall, related to old myocardial infarction.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Complete laminectomy, L4. and facetectomy, L3-L4 level.  A dural repair, right sided, on the lateral sheath, subarticular recess at the L4 pedicle level.  Posterior spinal instrumentation, L4 to S1, using Synthes Pangea System.  Posterior spinal fusion, L4 to S1.  Insertion of morselized autograft, L4 to S1.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: MRI C-spine: C4-5 Transverse Myelitis.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Left thoracoscopy and left thoracotomy with declaudication and drainage of lung abscesses, and multiple biopsies of pleura and lung.
+
+[Unknown] Raw prediction: __________
+The following is a medical specialty question. The medical specialty is the name of the specialty
+Description: Psychiatric consultation for management of pain medications.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Renal failure evaluation for possible dialysis therapy.  Acute kidney injury of which etiology is unknown at this time, with progressive azotemia unresponsive to IV fluids.
+
+[Unknown] Raw prediction: ______
+The answer is:
+Description: Bilateral myringotomies, insertion of PE tubes, and pharyngeal anesthesia.
+
