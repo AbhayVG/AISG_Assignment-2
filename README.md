@@ -48,3 +48,29 @@ This repo contains the below folders:
 | gemma      | 0.50     | 0.39     | 0.48      | 0.41   |
 | llama      | 0.70     | 0.52     | 0.57      | 0.52   |
 | deepseek   | 0.15     | 0.11     | 0.25      | 0.12   |
+
+
+## Comparing the Models for few shot, zero shot and fine tuning
+
+| Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
+|------------|----------------|----------|----------|-----------|--------|
+| llama      | zero shot      | 0.27     | 0.20     | 0.34      | 0.20   |
+| llama      | few shot (3)   | 0.54     | 0.49     | 0.49      | 0.55   |
+| llama      | few shot (5)   | 0.59     | 0.53     | 0.53      | 0.60   |
+| llama      | fine tuning    | 0.70     | 0.52     | 0.57      | 0.52   |
+
+
+|Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
+|------------|----------------|----------|----------|-----------|--------|
+| gemma      | zero shot      | 0.18     | 0.06     | 0.06      | 0.39   |
+| gemma      | few shot (3)   | 0.       | 0.     | 0.      | 0.   |
+| gemma      | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| gemma      | fine tuning    | 0.50     | 0.39     | 0.48      | 0.41   |
+
+
+|Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
+|------------|----------------|----------|----------|-----------|--------|
+| deepseek   | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
+| deepseek   | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
+| deepseek   | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| deepseek   | fine tuning    | 0.15     | 0.11     | 0.25      | 0.12   |
