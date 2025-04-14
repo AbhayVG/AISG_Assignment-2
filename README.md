@@ -52,6 +52,8 @@ This repo contains the below folders:
 
 ## Comparing the Models for few shot, zero shot and fine tuning
 
+### llamma
+
 | Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
 |------------|----------------|----------|----------|-----------|--------|
 | llama      | zero shot      | 0.27     | 0.20     | 0.34      | 0.20   |
@@ -59,6 +61,7 @@ This repo contains the below folders:
 | llama      | few shot (5)   | 0.59     | 0.53     | 0.53      | 0.60   |
 | llama      | fine tuning    | 0.70     | 0.52     | 0.57      | 0.52   |
 
+### gemma
 
 |Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
 |------------|----------------|----------|----------|-----------|--------|
@@ -67,6 +70,7 @@ This repo contains the below folders:
 | gemma      | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
 | gemma      | fine tuning    | 0.50     | 0.39     | 0.48      | 0.41   |
 
+### deepseek
 
 |Model Name | Prompt Strategy | Accuracy | F1 Score | Precision | Recall |
 |------------|----------------|----------|----------|-----------|--------|
