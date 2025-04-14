@@ -17,7 +17,29 @@ This repo contains the below folders:
 ## Question 1 and 2: Zero Shot and Few Shot Prompting.
 
 
+### llama
 
+| Promt Strategy | Accuracy | F1 Score | Precision | Recall |
+|----------------|----------|----------|-----------|--------|
+| zero shot      | 0.27     | 0.20     | 0.34      | 0.20   |
+| few shot (3)   | 0.     | 0.     | 0.      | 0.   |
+| few shot (5)   | 0.59     | 0.53     | 0.53      | 0.60   |
+
+### gemma
+
+| Promt Strategy | Accuracy | F1 Score | Precision | Recall |
+|----------------|----------|----------|-----------|--------|
+| zero shot      | 0.       | 0.     | 0.      | 0.   |
+| few shot (3)   | 0.       | 0.     | 0.      | 0.   |
+| few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+
+### deepseek
+
+| Promt Strategy | Accuracy | F1 Score | Precision | Recall |
+|----------------|----------|----------|-----------|--------|
+| zero shot      | 0.       | 0.     | 0.      | 0.   |
+| few shot (3)   | 0.       | 0.     | 0.      | 0.   |
+| few shot (5)   | 0.       | 0.     | 0.      | 0.   |
 
 ## Question 3 : Fine Tuning LLM for health applications.
 
@@ -25,4 +47,4 @@ This repo contains the below folders:
 |------------|----------|----------|-----------|--------|
 | gemma      | 0.50     | 0.39     | 0.48      | 0.41   |
 | llama      | 0.70     | 0.52     | 0.57      | 0.52   |
-| deepseek   | 0.90     | 0.89     | 0.88      | 0.87   |
+| deepseek   | 0.0     | 0.     | 0.      | 0.   |
