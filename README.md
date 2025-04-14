@@ -43,11 +43,11 @@ This repo contains the below folders:
 
 ## Question 3 : Fine Tuning LLM for health applications.
 
-| Model Name | Accuracy | F1 Score | Precision | Recall |
-|------------|----------|----------|-----------|--------|
-| gemma      | 0.50     | 0.39     | 0.48      | 0.41   |
-| llama      | 0.70     | 0.52     | 0.57      | 0.52   |
-| deepseek   | 0.35     | 0.22     | 0.25      | 0.23   |
+| Model Name |Epochs| Accuracy | F1 Score | Precision | Recall |
+|------------|------|----------|----------|-----------|--------|
+| gemma      | 5    | 0.50     | 0.39     | 0.48      | 0.41   |
+| llama      | 5    | 0.70     | 0.52     | 0.57      | 0.52   |
+| deepseek   | 6    | 0.35     | 0.22     | 0.25      | 0.23   |
 
 
 ## Comparing the Models for few shot, zero shot and fine tuning
