@@ -78,3 +78,7 @@ This repo contains the below folders:
 | deepseek  | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
 | deepseek  | few shot (5)   | 0.       | 0.00     | 0.00      | 0.00   |
 | deepseek  | fine tuning    | 0.35     | 0.22     | 0.25      | 0.23   |
+
+
+### Note:
+Even after multiple examples deepseek did not perform well for us. Even during Fine tuning it was not able to generalize well. After fine tuning for 6 epochs the accuracy was just 35% which is lower than few shot prompting of other models.
