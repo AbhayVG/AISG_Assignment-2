@@ -39,7 +39,7 @@ This repo contains the below folders:
 |----------------|----------|----------|-----------|--------|
 | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
 | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
-| few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| few shot (5)   | 0.00     | 0.00     | 0.00      | 0.00   |
 
 ## Question 3 : Fine Tuning LLM for health applications.
 
@@ -76,5 +76,5 @@ This repo contains the below folders:
 |-----------|----------------|----------|----------|-----------|--------|
 | deepseek  | zero shot      | 0.00     | 0.00     | 0.00      | 0.11   |
 | deepseek  | few shot (3)   | 0.00     | 0.00     | 0.00      | 0.02   |
-| deepseek  | few shot (5)   | 0.       | 0.     | 0.      | 0.   |
+| deepseek  | few shot (5)   | 0.       | 0.00     | 0.00      | 0.00   |
 | deepseek  | fine tuning    | 0.35     | 0.22     | 0.25      | 0.23   |
